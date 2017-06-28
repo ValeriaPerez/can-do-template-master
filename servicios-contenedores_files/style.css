@@ -130,7 +130,7 @@ blockquote.white {border-left:3px solid #d94a38; background:#fff; padding:10px;}
 /* ==================
    4 = Top Bar
    ================== */
-.top {background: #494B4C; padding-top:0;}
+.top {background: #fff; padding-top:0;}
 .topsticky {position:fixed; z-index:9999999999; width:100%; top:0;}
 .top-nav {width:100%; background:#3D3F40; padding:0;margin:0;}
 .top-list {  padding: 0; margin:0; list-style: none;  overflow: hidden;  }
@@ -162,7 +162,7 @@ nav.desktop-menu {  padding: 0; float:right; text-align: left; }
 .sf-menu ul {  position: absolute;  display: none;  top: 100%;  left: 0;  z-index: 99;}
 .sf-menu > li {  float: left;}
 .sf-menu li:hover > ul,.sf-menu li.sfHover > ul {  display: block;}
-.sf-menu a {  display: block;  position: relative;}
+.sf-menu a {  display: block;  position: relative; color: #000!important;}
 .sf-menu ul ul {  top: 0;  left: 100%;}
 
 /*** Superfish Menu Skin ***/
@@ -308,7 +308,7 @@ ul.chooseus li i {padding-right:10px; font-size:19px; color:#78b3d4;}
 .subheader h3 {font-size:33px; font-weight:800; color:#fff; text-align: center;}
 .subheader p {padding:0 80px; color:#fff; font-size:19px; margin-bottom:60px;}
 .subheader .getstart {margin:0 auto; display:table; text-align: center;}
-.subheader.shared {padding:50px 0 70px; background:url(images/shared_bg.jpg) top center fixed;}
+.subheader.shared {padding:50px 0 70px; background:url(2.jpg) top center fixed;}
 .subheader.vps {padding:50px 0 70px; background:url(images/vps_bg.jpg) top center fixed;}
 .subheader.domains {padding:50px 0 70px; background:url(images/domain_bg.jpg) top center fixed;}
 .subheader.datacenter {padding:50px 0 70px; background:url(images/datacenter_bg.jpg) top center fixed;}
