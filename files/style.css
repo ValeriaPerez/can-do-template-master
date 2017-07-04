@@ -246,12 +246,12 @@ video { width: 100%;}
 
 .pricing-table {  border: 0;  margin: 0 0 1.25em 0;padding:0; }
 .pricing-table * {    list-style: none;    line-height: 1; }
-.pricing-table .title { font-family: 'Open Sans', Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;    background: #3D3F40;  padding: 22px 0 12px;    text-align: center; letter-spacing: -2px;   color: #fff;    font-weight: 800;    font-size: 30px; -webkit-border-top-left-radius: 8px;-webkit-border-top-right-radius: 8px;-moz-border-radius-topleft: 8px;-moz-border-radius-topright: 8px;border-top-left-radius: 8px;border-top-right-radius: 8px; }
-.pricing-table .price {  font-family: 'Open Sans', Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;   background:#E3EDEE url(images/pattern1.png); text-align: center;    padding:5px 0 18px;    color: #7E8D97;    font-weight: 800;    font-size: 14px; -moz-box-shadow:    inset 0 0 10px #c1cbd1;   -webkit-box-shadow: inset 0 0 10px #c1cbd1;   box-shadow:         inset 0 0 10px #c1cbd1; }
+.pricing-table .title { font-family: 'Open Sans', Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;  padding: 22px 0 22px;    text-align: center; letter-spacing: -2px;   color: #000;    font-weight: 700;    font-size: 30px; -webkit-border-top-left-radius: 8px;-webkit-border-top-right-radius: 8px;-moz-border-radius-topleft: 8px;-moz-border-radius-topright: 8px;border-top-left-radius: 8px;border-top-right-radius: 8px; }
+.pricing-table .price {  font-family: 'Open Sans', Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;    text-align: center;    padding:5px 0 18px;    color: #7E8D97;    font-weight: 800;    font-size: 14px; -moz-box-shadow:    inset 0 0 10px #c1cbd1;   -webkit-box-shadow: inset 0 0 10px #c1cbd1;   box-shadow:         inset 0 0 10px #c1cbd1; }
 .pricing-table .price span {    color: #7E8D97;    font-weight: 800;    font-size: 44px; display: block; padding:10px 0; }
 .pricing-table .description { background: #3D3F40; text-align: center;    color: #fff;    font-size: 14px;    font-weight: normal;    line-height: 1.4; letter-spacing: 0; border-bottom: 0; padding-bottom:0;}
 .pricing-table .bullet-item {    background-color: #494B4C;    padding: 0.9375em;    text-align: center;    color: #fff;    font-size: 14px;    font-weight: normal;    border-bottom: solid 1px #5a5c5d; }
-.pricing-table .cta-button {    background: #3D3F40;    text-align: center;    padding: 8px 0; -webkit-border-bottom-right-radius: 8px;-webkit-border-bottom-left-radius: 8px;-moz-border-radius-bottomright: 8px;-moz-border-radius-bottomleft: 8px;border-bottom-right-radius: 8px;border-bottom-left-radius: 8px; }
+.pricing-table .cta-button {     text-align: center;    padding: 8px 0; -webkit-border-bottom-right-radius: 8px;-webkit-border-bottom-left-radius: 8px;-moz-border-radius-bottomright: 8px;-moz-border-radius-bottomleft: 8px;border-bottom-right-radius: 8px;border-bottom-left-radius: 8px; }
 .pricing-table .cta-button p {  padding-top: 14px; }
 .pricing-table .cta-button span a {color:#fff; font-size:16px; font-weight:800; background: #78b3d4; padding:4px 15px; border-radius: 6px}
 .pricing-table .cta-button span a:hover {background: #fe8f8c; text-decoration: none;}
@@ -678,6 +678,10 @@ blockquote.marginright {margin-right:0}
 blockquote.marginleft {margin-left:0}
 .sectionarea.blog .meta {line-height: 1.6}
 }
+
+.subheader.shared {padding:50px 0 70px; background:url(../images/contactanos.jpeg) top center; height: 500px; background-position: 20% 25%;}
+.back-opacity { background-color: rgba(183, 11, 6,0.5); padding-top: 150px; padding-bottom: 160px; height: 500px; }
+
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 .login-form {padding:20px 0;}
