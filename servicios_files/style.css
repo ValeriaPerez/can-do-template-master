@@ -204,8 +204,8 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul { left: 10em; top: 
 .logo {text-align: left;  margin:0 auto; padding-top:25px;}
 .header h1 {margin: 0; text-align: left; padding:0;}
 .header h1 a { text-decoration: none; color:#000; }
-.bigline {height:3px; background: url(files/feature2.png) repeat-x; padding:0; margin:0;}
-.bigline-top-is-sticky {height:3px; background: url(images/line.png) repeat-x; padding:0; margin:154px 0 0;}
+.bigline {height:3px; background: url() repeat-x; padding:0; margin:0;}
+.bigline-top-is-sticky {height:3px; background: url(line.png) repeat-x; padding:0; margin:154px 0 0;}
 
 /* Home Slider Texts  ---------------------- */
 .rtext { position: absolute;top: 18%; left: 20%; right:20%; text-align: center;  color:#fff; font-weight:900; font-size:33px; z-index:999;}
