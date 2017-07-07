@@ -204,7 +204,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul { left: 10em; top: 
 .logo {text-align: left;  margin:0 auto; padding-top:25px;}
 .header h1 {margin: 0; text-align: left; padding:0;}
 .header h1 a { text-decoration: none; color:#000; }
-.bigline {height:3px; background: url(images/line.png) repeat-x; padding:0; margin:0;}
+.bigline {height:3px; background: url(line.png) repeat-x; padding:0; margin:0;}
 .bigline-top-is-sticky {height:3px; background: url(images/line.png) repeat-x; padding:0; margin:154px 0 0;}
 
 /* Home Slider Texts  ---------------------- */
@@ -308,7 +308,7 @@ ul.chooseus li i {padding-right:10px; font-size:19px; color:#78b3d4;}
 .subheader h3 {font-size:33px; font-weight:800; color:#fff; text-align: center;}
 .subheader p {padding:0 80px; color:#fff; font-size:19px; margin-bottom:60px;}
 .subheader .getstart {margin:0 auto; display:table; text-align: center;}
-.subheader.shared {padding:50px 0 70px; background:url(2.jpg) top center fixed;}
+.subheader.shared {padding:50px 0 70px; background:url(2.jpg) fixed; background-position-y: 215%; background-position-x: 65%;}
 .subheader.vps {padding:50px 0 70px; background:url(images/vps_bg.jpg) top center fixed;}
 .subheader.domains {padding:50px 0 70px; background:url(images/domain_bg.jpg) top center fixed;}
 .subheader.datacenter {padding:50px 0 70px; background:url(images/datacenter_bg.jpg) top center fixed;}
