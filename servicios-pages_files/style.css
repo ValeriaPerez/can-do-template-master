@@ -414,7 +414,7 @@ ul.chooseus li i {padding-right:10px; font-size:19px; color:#78b3d4;}
 .domainsearch input[type="submit"] {float: left; background: #2E2F31; height:45px; color:#fff; font-weight:900; padding:6px; text-transform: uppercase; width: 100%; border-radius: 4px; border:0; cursor: pointer; -ms-box-sizing: border-box; -khtml-box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; box-sizing: border-box;}
 .domainsearch input[type="submit"]:hover { background: #494B4C; }
 .domainsearch select option span {color:#c00;}
-.domainfeatures {padding:50px 0 55px; background:#F9F9F9;}
+.domainfeatures {padding:50px 0 0px; background:#F9F9F9;}
 .domainfeatures  h2 {font-size:19px; color:#34495e; }
 #featuretabs {padding-top:50px;}
 .panel {background:#f7f7f7; border-radius:4px;}
