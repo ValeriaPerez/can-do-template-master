@@ -321,6 +321,7 @@ ul.chooseus li i {padding-right:10px; font-size:19px; color:#78b3d4;}
 .subheader.blog {padding:50px 0; background:url(images/blog_bg.jpg) top center fixed;}
 .subheader.blog h3 {margin-bottom:25px;}
 .subheader.blog p {margin-bottom:20px;}
+.title-header {margin-top: 25px; text-transform: uppercase;}
 
 /* Border Effect below the Titles ----------------------- */
 .titleborder{  margin-top:25px;  text-align: center;}

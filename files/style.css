@@ -208,7 +208,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul { left: 10em; top: 
 .bigline-top-is-sticky {height:3px; background: url(images/line.png) repeat-x; padding:0; margin:154px 0 0;}
 
 /* Home Slider Texts  ---------------------- */
-.rtext { position: absolute;top: 18%; left: 20%; right:20%; text-align: center;  color:#fff; font-weight:900; font-size:33px; z-index:999;}
+.rtext { position: absolute;top: 10%; left: 20%; right:20%; text-align: center;  color:#fff; font-weight:900; font-size:33px; z-index:999;}
 .rtext span {display:block; font-size:53px; }
 .rtext hr.small { border: solid #fe8f8c; border-width: 6px 0 0; clear: both;margin:0 auto; margin-top:30px; margin-bottom:20px; height: 0; max-width:150px; }
 .startnow {margin:0 auto; display:table; text-align: center;}
